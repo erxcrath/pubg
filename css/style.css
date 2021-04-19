@@ -1,0 +1,61 @@
+h1{
+	text-align: center;
+}
+body{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+.Footer{
+	position: fixed;
+	bottom:0; 
+	background-color: grey;
+}
+.Team{
+	font-family: cursive;
+}
+.Wolf{
+	color:orange;
+	font-family: cursive;
+}
+.Left{
+	box-shadow: 20px 20px 20px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	background-color: rgb(0, 128, 156);
+}
+.ul-Left{
+	list-style: none;
+}
+.a-Left{
+	text-decoration: none;
+	color:white;
+}
+.a-Left:hover{
+	text-decoration: none;
+	color:white;
+
+}
+.gallery{
+	border:1px solid;
+	width: 16%;
+	height: 280px;
+	border-radius: 020px;
+	overflow: hidden;
+	background-color: black;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.description{
+	text-align: center;
+	color:white;
+}
+/*.menu-1{
+	position: fixed;
+	top:60px;
+}
+.menu-2{
+	position: fixed;
+	top:120px;
+}*/
